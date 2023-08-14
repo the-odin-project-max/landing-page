@@ -29,6 +29,9 @@ Once you have completed your project, feel free to look at the other solutions t
 ### Assignment
 Don’t forget to commit early & often! You can reference the Commit Message lesson here!
 
+![Full design](assigment/desired-outcome.png)
+![Fonts](assigment/color-and-fonts.png)
+
 1. Download the design images and take a look at what you’re going to be creating here. Image One (Full Design), Image Two (Color and Fonts)
 The font that’s being used in the images is roboto.
 Hero text is the statement that appears at the top of a web page.
