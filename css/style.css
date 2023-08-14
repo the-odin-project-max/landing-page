@@ -118,3 +118,20 @@ section.carousel {
 	color: #1F2937;
 	font-weight: lighter;
 }
+
+/* SECTION 3 */
+section.quote {
+	background-color: #e5e7eb;
+}
+
+.quote-text {
+	font-size: 36px;
+	font-weight: lighter;
+	font-style: italic;
+	color: #1F2937;
+	margin: 0;
+}
+
+.quote-author {
+	text-align: right;
+}
