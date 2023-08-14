@@ -165,3 +165,14 @@ section.call-to-action {
 	height: 40px;
 	width: 100px;
 }
+
+/* FOOTER */
+footer {
+	padding: 8px 10vw;
+	color: #f9faf8;
+	font-weight: lighter;
+}
+
+footer p {
+	text-align: center;
+}
