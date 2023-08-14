@@ -135,3 +135,32 @@ section.quote {
 .quote-author {
 	text-align: right;
 }
+
+/* SECTION 4 */
+section.call-to-action {
+	margin: 64px 10vw;
+	padding: 32px 64px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	background-color: #3882f6;
+	border-radius: 10px;
+	color: white;
+	flex-wrap: wrap;
+}
+.action-left h2 {
+	margin: 0;
+}
+.action-left p {
+	font-weight: lighter;
+	margin: 8px 0;
+}
+
+.call-to-action button{
+	background-color: #3882f6;
+	border: 2px solid white;
+	color: white;
+	border-radius: 10px;
+	height: 40px;
+	width: 100px;
+}
