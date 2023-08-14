@@ -86,7 +86,7 @@ section.carousel {
 	flex-direction: column;
 	justify-content: center;
 	text-align: center;
-	padding: 32px 20vw;
+	padding: 32px 20vw 64px;
 }
 
 .carousel-title {
