@@ -98,7 +98,7 @@ section.carousel {
 .carousel-container {
 	display: flex;
 	justify-content: space-between;
-	flex: 1 1 100px;
+	flex-wrap: wrap;
 	gap: 32px;
 }
 
@@ -106,6 +106,7 @@ section.carousel {
 	display: flex;
 	flex-direction: column;
 	align-items: center;
+	width: 200px;
 }
 .carousel-item img {
 	height: 125px;
